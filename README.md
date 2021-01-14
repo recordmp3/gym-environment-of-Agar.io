@@ -1,1 +1,1 @@
-# openai-gym-environment-of-Agar.io
+# gym-environment-of-Agar.io
